@@ -1,0 +1,37 @@
+.nav-wrapper {
+     scroll-behavior: smooth;
+     background: #fff;
+     z-index: 99;
+     padding: 5px 24px;
+     top: 0;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+
+.nav-wrapper_logo-container {
+     width: 80px;
+     height: 50px;
+}
+
+.nav-link-container {
+     letter-spacing: .4em;
+     display: flex;
+     align-items: center;
+     justify-content:space-around;
+     text-decoration: none;
+}
+
+.nav-item {
+     line-height: 77px;
+     position: relative;
+     color: #1f304c;
+     text-decoration: none;
+     font-size: 14px;
+     padding: 9px 0px 9px 60px;
+     font-weight: 400;
+}
+
+.nav-link {
+     font-size: 24px;
+}

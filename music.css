@@ -1,0 +1,19 @@
+.music-container {
+     display: flex;
+     justify-content: space-evenly;}
+
+.music-container_window {
+     border-top: 1px solid #27AAE1;
+     width: 40%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     -webkit-box-shadow: 3px 3px 5px 0px rgb(220, 220, 220);
+     -moz-box-shadow: 3px 3px 5px 0px rgb(220, 220, 220);
+     box-shadow: 3px 3px 5px 0px rgb(220, 220, 220);
+}
+
+.music_description {
+     color:rgb(44, 44, 44);
+     font-size: 24px;
+}
